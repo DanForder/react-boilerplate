@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-boilerplate/static/css/main.eb78479d.css",
-    "main.js": "/react-boilerplate/static/js/main.edb524d3.js",
-    "static/js/787.c0a1f06f.chunk.js": "/react-boilerplate/static/js/787.c0a1f06f.chunk.js",
-    "index.html": "/react-boilerplate/index.html",
-    "main.eb78479d.css.map": "/react-boilerplate/static/css/main.eb78479d.css.map",
-    "main.edb524d3.js.map": "/react-boilerplate/static/js/main.edb524d3.js.map",
-    "787.c0a1f06f.chunk.js.map": "/react-boilerplate/static/js/787.c0a1f06f.chunk.js.map"
+    "main.css": "/static/css/main.eb78479d.css",
+    "main.js": "/static/js/main.a592e4ff.js",
+    "static/js/787.c0a1f06f.chunk.js": "/static/js/787.c0a1f06f.chunk.js",
+    "index.html": "/index.html",
+    "main.eb78479d.css.map": "/static/css/main.eb78479d.css.map",
+    "main.a592e4ff.js.map": "/static/js/main.a592e4ff.js.map",
+    "787.c0a1f06f.chunk.js.map": "/static/js/787.c0a1f06f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eb78479d.css",
-    "static/js/main.edb524d3.js"
+    "static/js/main.a592e4ff.js"
   ]
 }
