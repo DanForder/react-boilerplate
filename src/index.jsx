@@ -4,11 +4,9 @@ import { BrowserRouter as Router } from "react-router-dom";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
-const baseURL = "/react-boilerplate";
-
 ReactDOM.render(
   <React.StrictMode>
-    <Router basename={baseURL}>
+    <Router>
       <App />
     </Router>
   </React.StrictMode>,
